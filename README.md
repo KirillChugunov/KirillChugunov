@@ -1,6 +1,6 @@
 ## 👋 About me:
 
-<h1 align="center">Hi 👋, I'm Kirill Chugunov</h1>
+<h3 align="center">Hi 👋, I'm Kirill Chugunov</h3>
 <h3 align="center">I am junior frontend developer from russia.</h3>
 
 ## 🌐 Socials:
