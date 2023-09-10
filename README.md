@@ -1,6 +1,7 @@
+## 👋 About me:
+
 <h1 align="center">Hi 👋, I'm Kirill Chugunov</h1>
 <h3 align="center">I am junior frontend developer from russia.</h3>
-
 
 ## 🌐 Socials:
 <h3 align="center" style="vertical-align: bottom"><img src="./src/img/gmail.svg" alt="gmail logo" width="15px" height="15px">Gmail: chugunov.front@gmail.com</h3>
