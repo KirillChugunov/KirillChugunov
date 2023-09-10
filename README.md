@@ -5,8 +5,9 @@
 ## 🌐 Socials:
 <h3 align="center">Gmail: chugunov.front@gmail.com</h3>
 <h3 align="center">Telegram: https://t.me/L14ight</h3>
-
-- [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=28212%3A2&t=AFki53U4zov4UttD-0)
+<h3>
+[Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=28212%3A2&t=AFki53U4zov4UttD-0)
+</h3>
 
 
 # 💻 Tech Stack:
