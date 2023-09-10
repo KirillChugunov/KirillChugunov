@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 <h3 align="center">Gmail: chugunov.front@gmail.com</h3>
 <h3 align="center">Telegram: https://t.me/L14ight</h3>
-<h3 align="center">- [Мое резюме](https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68)</h3>
+- [Мое резюме](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=28212%3A2&t=AFki53U4zov4UttD-0)
 
 
 # 💻 Tech Stack:
