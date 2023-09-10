@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-<h3 align="center" text-align="center"><img src="./src/img/gmail.svg" alt="gmail logo" width="24px" height="24px" display="inline-block">Gmail: chugunov.front@gmail.com</h3>
-<h3 align="center"><img src="./src/img/telegram.svg" alt="telegram logo" width="24px" height="24px">Telegram: https://t.me/L14ight</h3>
+<h3 align="center" text-align="center"><img src="./src/img/gmail.svg" alt="gmail logo" width="20px" height="20px" display="inline-block">Gmail: chugunov.front@gmail.com</h3>
+<h3 align="center"><img src="./src/img/telegram.svg" alt="telegram logo" width="20px" height="20px">Telegram: https://t.me/L14ight</h3>
 <h3 align="center">
   
 [Мое резюме](https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68)
