@@ -9,7 +9,7 @@
 <h3 align="center"><img src="./src/img/telegram.svg" alt="telegram logo" width="15px" height="15px"> Telegram: https://t.me/L14ight</h3>
 <h3 align="center">
   
-[Мое резюме](https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68)
+[Моё резюме](https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68)
 
 </h3>
 
