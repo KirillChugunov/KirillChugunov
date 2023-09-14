@@ -7,11 +7,7 @@
 ## 🌐 Mу contacts:
 <p align="left" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com
 <br> Telegram: https://t.me/L14ight
-<a href="https://www.yandex.ru/">Яндекс</a>
 <br><a href="https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68/">Моё резюме</a></p>
-
-
-
 
 ## 💻 Tech Stack main:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
