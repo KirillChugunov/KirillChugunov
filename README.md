@@ -31,10 +31,10 @@
 
 ## 💻 Mу stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=kirillchugunov&show_icons=true&theme=transparent&hide_rank=true" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api?username=kirillchugunov&show_icons=true&theme=transparent&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillchugunov&Compact_layout" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillchugunov&Compact_layout" />
 </a>
 
 ## 🌐 Mу contacts:
