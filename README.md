@@ -7,7 +7,7 @@
 ## 🌐 Mу contacts:
 <p align="left" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com
 <br> Telegram: https://t.me/L14ight</p>
-<p align="left"> [Моё резюме](https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68) </p>
+<h1 align="left"> [Моё резюме](https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68) </h1>
 
 
 
