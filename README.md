@@ -4,11 +4,6 @@
 <p align="left">Этим летом я закончил углубленный курс frontend-разработчик bootcamp от образовательной платформы Яндекс. В настоящий момент я участвую в разработке благотворительных проектов вместе с командой «Гильдии разработчиков».
 .</p>
 
-## 🌐 Mу contacts:
-<p align="left" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com
-<br> Telegram: https://t.me/L14ight
-<br><a href="https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68/">Моё резюме</a></p>
-
 ## 💻 Tech Stack main:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
@@ -33,4 +28,9 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+## 🌐 Mу contacts:
+<p align="left" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com
+<br> Telegram: https://t.me/L14ight
+<br><a href="https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68/">Моё резюме</a></p>
 
