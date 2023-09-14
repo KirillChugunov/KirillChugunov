@@ -31,6 +31,7 @@
 
 ## 💻 Mу stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillchugunov&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## 🌐 Mу contacts:
 <p align="left" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com
