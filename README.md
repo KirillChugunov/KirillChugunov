@@ -30,7 +30,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)\
 
 ## 💻 Mу stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillchugunov&show_icons=true&theme=transparent&hide_rank=true&card_width_1000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillchugunov&show_icons=true&theme=transparent&hide_rank=true&line_height_33)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillchugunov&Compact_layout)
 
 ## 🌐 Mу contacts:
