@@ -27,12 +27,14 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)\
+
+## 💻 Mу stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillchugunov&show_icons=true&theme=transparent)
 
 ## 🌐 Mу contacts:
 <p align="left" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com
 <br> Telegram: https://t.me/L14ight
 <br><a href="https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68/">Моё резюме</a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillchugunov&show_icons=true&theme=transparent)
 
