@@ -34,3 +34,5 @@
 <br> Telegram: https://t.me/L14ight
 <br><a href="https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68/">Моё резюме</a></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
