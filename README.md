@@ -4,14 +4,14 @@
 <p align="left">Этим летом я закончил углубленный курс frontend-разработчик bootcamp от образовательной платформы Яндекс. В настоящий момент я участвую в разработке благотворительных проектов вместе с командой «Гильдии разработчиков».
 .</p>
 
-## 🌐 Socials:
-<h3 align="center" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com</h3>
-<h3 align="center">Telegram: https://t.me/L14ight</h3>
-<h3 align="center">
+## 🌐 Mу contacts:
+<p align="left" style="vertical-align: bottom">Gmail: chugunov.front@gmail.com</p>
+<p align="left">Telegram: https://t.me/L14ight</p>
+<p align="left">
   
 [Моё резюме](https://ivanteevka.hh.ru/resume/52524ef8ff0c4dfd0b0039ed1f374a4f6d4e68)
 
-</h3>
+</p>
 
 
 
